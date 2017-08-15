@@ -1,0 +1,22 @@
+{
+  "name": "zadanie-9-2",
+  "version": "1.0.0",
+  "description": "grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Natalia",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
